@@ -47,7 +47,7 @@ I'm Mohsin Islam Maruf. <br> Welcome to my GITHUB profile.
 <!-- status codes -->
 <a align="center" href="https://Marufms4.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marufms4&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqultais&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marufms4&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marufms4&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 
